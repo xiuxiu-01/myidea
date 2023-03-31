@@ -1,2 +1,0 @@
-# myidea
-# myidea
