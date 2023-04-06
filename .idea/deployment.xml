@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lwq@202.112.113.143:22 (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="zwc@202.112.113.143:22 password">
+      <paths name="lwq">
         <serverdata>
           <mappings>
-            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
-            <mapping deploy="" local="" />
+            <mapping deploy="/myidea" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lwq@202.112.113.143:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_218" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lwq@202.112.113.143:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_176" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
